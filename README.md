@@ -3,3 +3,6 @@
 
 https://drive.google.com/file/d/10LuPrZoCiEnjUZq-zxUTQwX3W7q5wh2I/view?usp=sharing
 빌드 zip 링크
+
+https://drive.google.com/file/d/1VgSC7DOpjt5q-WSbbiPC72CP8ioKZkMo/view?usp=sharing
+프로젝트 zip 링크입니다.
