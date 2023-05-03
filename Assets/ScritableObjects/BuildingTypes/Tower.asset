@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c762546b2339334ca0e8dfb6d768da3, type: 3}
+  m_Name: Tower
+  m_EditorClassIdentifier: 
+  nameString: Tower
+  prefab: {fileID: 3072303107823962312, guid: 5791bc5a0dbe3dd4ea292adb8876f468, type: 3}
+  hasResourceGeneratorData: 0
+  resourceGeneratorData:
+    timerMax: 0
+    resourceType: {fileID: 0}
+    resourceDetectionRadius: 0
+    maxResouceAmount: 0
+  sprite: {fileID: 21300000, guid: 3a549cd61f4d79e4b996c9978dac641f, type: 3}
+  minConstructionRadius: 7
+  constructionResourceCostArray:
+  - resourceType: {fileID: 11400000, guid: 1a6df0349a853b64f9f2b71596eadcee, type: 2}
+    amount: 40
+  - resourceType: {fileID: 11400000, guid: 254f88349313df7498e34b3508e127d3, type: 2}
+    amount: 30
+  healthAmountMax: 70
+  constructionTimerMax: 5
